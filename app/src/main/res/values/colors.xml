@@ -8,8 +8,17 @@
     <color name="black40">#40000000</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="white70">#70FFFFFF</color>
+    <color name="white99">#99FFFFFF</color>
+    <color name="white70">#60FFFFFF</color>
+    <color name="light_peach">#FBB8CD</color>
     <color name="peach">#FBB8CD</color>
-    <color name="dark_peach">#FFA6CD</color>
-    <color name="corall">#E888AA</color>
+    <color name="peach70">#70FBB8CD</color>
+    <color name="red70">#70FB4B83</color>
+    <color name="dark_peach">#FF84BA</color>
+    <color name="sky_blue">#A0E4FF</color>
+    <color name="violet">#D9ADFF</color>
+    <color name="violet_mid">#793EAC</color>
+    <color name="dark_violet">#61328A</color>
+    <color name="dark_violet70">#7061328A</color>
+    <color name="dark_red">#BB0000</color>
 </resources>

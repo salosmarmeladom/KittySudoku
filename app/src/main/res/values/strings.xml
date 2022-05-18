@@ -3,16 +3,24 @@
     <string name="greeting">meow</string>
     <string name="start">say meow</string>
     <string name="back">run away</string>
-    <string name="level1">kitty sudoku ＼(￣▽￣)／</string>
-    <string name="todo">TODO</string>
-    <string name="_8">8</string>
-    <string name="_7">7</string>
-    <string name="cl">cl</string>
-    <string name="_9">9</string>
-    <string name="_6">6</string>
-    <string name="_5">5</string>
-    <string name="_4">4</string>
-    <string name="_3">3</string>
-    <string name="_2">2</string>
-    <string name="_1">1</string>
+    <string name="title1">kitty sudoku</string>
+    <string name="title2">＼(￣▽￣)／</string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="clear">cl</string>
+    <string name="congratulations">CONGRATULATIONS!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restart">restart</string>
+    <string name="kitty_content_description">kitty animation</string>
 </resources>
